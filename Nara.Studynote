@@ -1,0 +1,20 @@
+# Python Basic Calculating
+
+addition = 2 + 5
+subraction = 5 - 2
+multiply = 5 * 2
+divising = 5 / 2
+print(adiition, subraction, multiply, divising)
+
+# Python Basic Database
+
+name = "Nara Abigael"
+birthday = "15 July 2006"
+hobbies = "Writing & Singing"
+dream = "Neurologist"
+Fav_Color = "Cream"
+print("my name is", name, "my birthday is", birthday, "my hobbies are", hobbies, "my dream is", dream, "my fav color is", Fav_Color)
+
+
+
+
