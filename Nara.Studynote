@@ -1,4 +1,4 @@
-# Python Basic Calculating
+# Python Basic Calculating 
 
 addition = 2 + 5
 subraction = 5 - 2
@@ -14,6 +14,16 @@ hobbies = "Writing & Singing"
 dream = "Neurologist"
 Fav_Color = "Cream"
 print("my name is", name, "my birthday is", birthday, "my hobbies are", hobbies, "my dream is", dream, "my fav color is", Fav_Color)
+
+# Python Basic Calculating 2
+
+example1 = 4.2 - 3.2
+example2 = 4.2 + 3.2
+print(example1, example2)
+  # Use a 'float' for the same respond, but u can use 'print(int(example))' for the integers numbers
+power_number = 4 ** 2
+root_number = 16 ** (1/2)
+print(power_number, root_number)
 
 
 
