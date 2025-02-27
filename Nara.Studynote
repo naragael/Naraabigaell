@@ -25,6 +25,11 @@ power_number = 4 ** 2
 root_number = 16 ** (1/2)
 print(power_number, root_number)
 
-
+# Python Sort Words Basic 
+sentence = input("Write a Sentence ")
+word = sentence.split()
+word.sort()
+print("This is Your Result: ")
+print(word)
 
 
