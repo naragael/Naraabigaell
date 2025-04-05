@@ -1,8 +1,8 @@
 # Naraabigaell
 
-Hello im Naraa🤸‍♀️ I hope we can learn together🌌
+Hello im Naraa🤸‍♀️ I just a girl who wanna study a new things
 
-# Na.Studyplan
+# Na.Bio
 
-Nara study alonee
+Lets study together all
 
